@@ -42,6 +42,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "black": "https://github.com/MassiveHeights/Black.git#v0.6.x-dev"
+    "black": "https://github.com/MassiveHeights/Black.git#v0.6.x-dev",
+    "pixi.js": "^4.8.2"
   }
 }
